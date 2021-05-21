@@ -27,6 +27,7 @@ body {
   border-radius: 7px;
   font-size: 1.125rem;
   cursor: pointer;
+  width: 175px;
 }
 
 .btn:hover {
